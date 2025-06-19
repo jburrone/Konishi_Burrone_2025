@@ -1,0 +1,15 @@
+name: napari-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - dask
+      - napari[all]
+      - numpy
+      - pandas
+      - scikit-image
+      - scipy
+      - zarr
+      - affinder
