@@ -1,0 +1,38 @@
+Bootstrap: docker
+From: nvidia/cuda:11.1.1-cudnn8-devel-ubuntu20.04
+
+%post
+    export DEBIAN_FRONTEND=noninteractive
+
+    apt-get -y update
+    apt-get install -y \
+    	curl \
+    	python3-pip \
+    	python3.7 \
+        build-essential \
+        vim \
+        git \
+        libgl1-mesa-dev \
+        libglib2.0-0 \
+        libsm6 \
+        libxrender1 \
+        wget \
+        libxext6
+    
+
+    pip3 install --upgrade pip
+    pip3 --no-cache-dir  install \
+        torch \
+        numpy \
+        scikit-image \
+        scipy \
+        torchvision
+    
+    unset DEBIAN_FRONTEND
+
+%environment
+    export LC_ALL=C
+    export PATH=/usr/games:$PATH
+
+%runscript
+    date

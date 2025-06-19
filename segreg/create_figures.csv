@@ -1,0 +1,12 @@
+# Fig.2
+#373_231009_SoRa_Blk_20x1x_img.tif,373_231009_SoRa_Blk_20x1x_seg.tif,373_230614_A1_Blk_Reg2_40x_img.tif,373_230614_A1_Blk_Reg2_40x_seg.tif,0,295,565,90,180,10,15,1,0
+# Fig.4-i
+373_231009_SoRa_Blk_20x1x_img.tif,373_231009_SoRa_Blk_20x1x_seg.tif,373_231115_AX_Sect1_25xOil_img_roi1.tif,373_231115_AX_Sect1_25xOil_seg_roi1.tif,0.3,350,1150,150,150,8,9,1,0
+# Fig.4-ii
+#373_231009_SoRa_Blk_20x1x_img.tif,373_231009_SoRa_Blk_20x1x_seg.tif,373_231128_AX_Sect3_25xOil_img_roi3.tif,373_231128_AX_Sect3_25xOil_seg_roi3.tif,0.4,470,1150,100,100,24,27,1,-5
+# Fig.5cde
+#266_220420_A1_Blk_xy147nm_DAPITdt_rot-15deg_img.tif,266_220420_A1_Blk_xy147nm_DAPITdt_rot-15deg_SAMseg.tif,266_240621GN_JEM1400_Slot812_xy136nm_x187_y294_img.tif,266_240621GN_JEM1400_Slot812_xy136nm_x187_y294_labels.tif,0.2,280,450,10,10,15,16,1,0
+# Fig.5f-i
+#266_220420_A1_Blk_xy4.5nm_GFPTdt_rot-15deg_x14416_y17743_img.tif,266_220420_A1_Blk_xy4.5nm_GFPTdt_rot-15deg_x14416_y17743_seg.tif,266_240530_JEM1400_Slot733_xy3.4nm_x33_y0_z53_img.tif,266_240530_JEM1400_Slot733_xy3.4nm_x33_y0_z53_seg.tif,0.15,0,0,1109,1109,12,13,1,10
+# Fig.5f-ii
+#266_220420_A1_Blk_xy4.5nm_Tdt_rot-15deg_x14633_y20176_img.tif,266_220420_A1_Blk_xy4.5nm_Tdt_rot-15deg_x14633_y20176_seg.tif,266_240515_JEM1400_Slot813_xy3.4nm_z45_img.tif,266_240515_JEM1400_Slot813_xy3.4nm_z45_seg.tif,0.15,310,310,100,100,15,16,1,55
