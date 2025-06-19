@@ -1,0 +1,10 @@
+name: napari-navroi
+display_name: napari-navroi
+contributions:
+  commands:
+    - id: napari-navroi.say_hi
+      title: Say widget, world!
+      python_name: napari_navroi:NavROI
+  widgets:
+    - command: napari-navroi.say_hi  # note, same as command.id above
+      display_name: NavROI
