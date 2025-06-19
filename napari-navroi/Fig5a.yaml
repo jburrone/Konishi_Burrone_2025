@@ -1,0 +1,42 @@
+images:
+  - filepath: EM2B6/266_221116_JEM1400_Slot812_xy170nm.tif
+    name: Section TEM map
+    napari_ref: Y
+    xyres_um: -1
+    zres_um: -1
+    color: gray
+    size: 2522
+ 
+  - filepath: EM2B6/266_220420_A1_Blk_60x_DAPI_rot-15deg_z12.tif
+    name: ROI FM (Nuclei)
+    napari_ref: N
+    xyres_um: 0.1
+    zres_um: 1.0
+    color: blue
+    size: 1254
+    dy: 0
+    dx: 0
+    affinder_output: 266_affinder_240420A1Blk_to_241116JEM1400Sect812.txt
+ 
+  - filepath: EM2B6/266_220420_A1_Blk_60x_GFP_rot-15deg_z12.tif
+    name: ROI FM (Synapse)
+    napari_ref: N
+    xyres_um: 0.1
+    zres_um: 1.0
+    color: green
+    size: 1254
+    dy: 0
+    dx: 0
+    affinder_output: 266_affinder_240420A1Blk_to_241116JEM1400Sect812.txt
+
+  - filepath: EM2B6/266_220420_A1_Blk_60x_Tdt_rot-15deg_z12.tif
+    name: ROI FM (Neuron)
+    napari_ref: N
+    xyres_um: 0.1
+    zres_um: 1.0
+    color: cyan
+    size: 1254
+    dy: 0
+    dx: 0
+    affinder_output: 266_affinder_240420A1Blk_to_241116JEM1400Sect812.txt
+ 

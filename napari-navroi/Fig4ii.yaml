@@ -1,0 +1,52 @@
+images:
+  - filepath: EM3C7/373_231009_SoRa_Blk_20x1x_img.tif
+    name: Block_FM
+    napari_ref: Y
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: red
+    size: 1938
+
+  - filepath: EM3C7/373_231128_AX_Sect3_25xOil_img_roi3.tif
+    name: Section_FM_Crop
+    napari_ref: N
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: bop orange
+    x_offmov: 420
+    y_offmov: 1090
+    size: 235
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: -5
+    tz_segreg: -9.59
+    x_segreg: 33
+    y_segreg: 29
+    z_segreg: 26
+    sx_segreg: 1.39
+    sy_segreg: 1.06
+    dx: 0
+    dy: 0
+
+  - filepath: EM3C7/373_231128_AX_Sect3_25xOil_img.tif
+    name: Section_FM
+    napari_ref: N
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: gray
+    x_offmov: 420
+    y_offmov: 1090
+    size: 235
+    x_offref: -245
+    y_offref: -927
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -9.59
+    x_segreg: 33
+    y_segreg: 29
+    z_segreg: 26
+    sx_segreg: 1.39
+    sy_segreg: 1.06
+    dx: 0
+    dy: 0

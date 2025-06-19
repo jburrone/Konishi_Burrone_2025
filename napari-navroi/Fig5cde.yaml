@@ -1,0 +1,49 @@
+images:
+  - filepath: EM2B6/266_220420_A1_Blk_xy147nm_DAPI_rot-15deg_img.tif
+    name: ROI FM (Nuclei)
+    napari_ref: Y
+    xyres_um: 0.136
+    zres_um: 0.3
+    color: blue
+    size: 855
+
+
+  - filepath: EM2B6/266_220420_A1_Blk_xy147nm_GFP_rot-15deg_img.tif
+    name: ROI FM (Synapses)
+    napari_ref: Y
+    xyres_um: 0.136
+    zres_um: 0.3
+    color: green
+    size: 855
+
+
+  - filepath: EM2B6/266_220420_A1_Blk_xy147nm_Tdt_rot-15deg_img.tif
+    name: ROI FM (Neuron)
+    napari_ref: Y
+    xyres_um: 0.136
+    zres_um: 0.3
+    color: cyan
+    size: 855
+
+
+  - filepath: EM2B6/266_240326GN_JEM1400_Slot812_xy3.4nm_img.zarr
+    name: Slot8_1_s2
+    napari_ref: N
+    xyres_um: 0.0034
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: -187
+    y_offref: -294
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.9
+    x_segreg: -11
+    y_segreg: -18
+    z_segreg: 15
+    sx_segreg: 1.0330890006711122
+    sy_segreg: 1.07030842609786
+    dx: 0
+    dy: 0

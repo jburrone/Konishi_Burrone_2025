@@ -1,0 +1,346 @@
+images:
+  - filepath: EM2B6/266_220420_A1_Blk_xy147nm_DAPI_rot-15deg_seg.tif
+    name: ROI FM (Nuclei)
+    napari_ref: Y
+    xyres_um: 0.136
+    zres_um: 0.3
+    color: blue
+
+
+  - filepath: EM2B6/266_220420_A1_Blk_xy147nm_GFP_rot-15deg_seg.tif
+    name: ROI FM (Synapses)
+    napari_ref: Y
+    xyres_um: 0.136
+    zres_um: 0.3
+    color: green
+    size: 855
+
+
+  - filepath: EM2B6/266_220420_A1_Blk_xy147nm_Tdt_rot-15deg_seg.tif
+    name: ROI FM (Neuron)
+    napari_ref: Y
+    xyres_um: 0.136
+    zres_um: 0.3
+    color: cyan
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot721_xy136nm_x187_y294_seg.tif
+    name: Slot7_2_s1
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -2.1
+    x_segreg: -12
+    y_segreg: -23
+    z_segreg: 9
+    sx_segreg: 1.0866745349767746
+    sy_segreg: 1.095680478631828
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot722_xy136nm_x187_y294_seg.tif
+    name: Slot7_2_s2
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -2.3
+    x_segreg: 10
+    y_segreg: -23
+    z_segreg: 10
+    sx_segreg: 0.9376841260038662
+    sy_segreg: 0.8155243768070609
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot723_xy136nm_x187_y294_seg.tif
+    name: Slot7_2_s3
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -2.3
+    x_segreg: -7
+    y_segreg: -20
+    z_segreg: 10
+    sx_segreg: 1.0375926327611127
+    sy_segreg: 1.0621475154960527
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot731_xy136nm_x187_y294_seg.tif
+    name: Slot7_3_s1
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -2.3
+    x_segreg: -14
+    y_segreg: -19
+    z_segreg: 11
+    sx_segreg: 1.082670511977236
+    sy_segreg: 1.0751155288067624
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot732_xy136nm_x187_y294_seg.tif
+    name: Slot7_3_s2
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.3
+    x_segreg: -13
+    y_segreg: -17
+    z_segreg: 12
+    sx_segreg: 1.0924646605450887
+    sy_segreg: 1.0900669307058057
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot733_xy136nm_x187_y294_seg.tif
+    name: Slot7_3_s3
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.3
+    x_segreg: -14
+    y_segreg: -21
+    z_segreg: 13
+    sx_segreg: 1.08572409123983
+    sy_segreg: 1.0539040073724832
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot734_xy136nm_x187_y294_seg.tif
+    name: Slot7_3_s4
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.3
+    x_segreg: -14
+    y_segreg: -21
+    z_segreg: 13
+    sx_segreg: 1.0934768955682581
+    sy_segreg: 1.0514907321263478
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot812_xy136nm_x187_y294_seg.tif
+    name: Slot8_1_s2
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.9
+    x_segreg: -11
+    y_segreg: -18
+    z_segreg: 15
+    sx_segreg: 1.0330890006711122
+    sy_segreg: 1.07030842609786
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot813_xy136nm_x187_y294_seg.tif
+    name: Slot8_1_s3
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.5
+    x_segreg: -3
+    y_segreg: -13
+    z_segreg: 15
+    sx_segreg: 1.0278617276604887
+    sy_segreg: 1.0193891631454264
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot814_xy136nm_x187_y294_seg.tif
+    name: Slot8_1_s4
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -2.3
+    x_segreg: -8
+    y_segreg: -16
+    z_segreg: 16
+    sx_segreg: 0.9718060011120241
+    sy_segreg: 1.049987328723793
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot821_xy136nm_x187_y294_seg.tif
+    name: Slot8_2_s1
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.9
+    x_segreg: -4
+    y_segreg: -14
+    z_segreg: 16
+    sx_segreg: 0.9489236323671006
+    sy_segreg: 1.0214495363578713
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot822_xy136nm_x187_y294_seg.tif
+    name: Slot8_2_s2
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -3.9
+    x_segreg: -9
+    y_segreg: -14
+    z_segreg: 17
+    sx_segreg: 1.0091877716868505
+    sy_segreg: 1.0163422083237652
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot823_xy136nm_x187_y294_seg.tif
+    name: Slot8_2_s3
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -4.1
+    x_segreg: -9
+    y_segreg: -12
+    z_segreg: 18
+    sx_segreg: 1.0099091932881852
+    sy_segreg: 1.0044215303561594
+    dx: 0
+    dy: 0
+
+
+  - filepath: EM2B6/266_240621GN_JEM1400_Slot824_xy136nm_x187_y294_seg.tif
+    name: Slot8_2_s4
+    napari_ref: N
+    xyres_um: 0.136
+    zres_um: 0.2
+    color: gray
+    x_offmov: 280
+    y_offmov: 450
+    size: 300
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -3.7
+    x_segreg: -6
+    y_segreg: -8
+    z_segreg: 19
+    sx_segreg: 0.9666353037994107
+    sy_segreg: 0.9875401886545393
+    dx: 0
+    dy: 0

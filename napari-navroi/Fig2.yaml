@@ -1,0 +1,60 @@
+images:
+  - filepath: EM3C7/373_231009_SoRa_Blk_20x1x_img.tif
+    name: Block FM
+    napari_ref: Y
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: red
+    size: 1938
+
+  - filepath: EM3C7/373_231009_SoRa_Blk_20x1x_cube.tif
+    name: Cube
+    napari_ref: Y
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: gray
+    size: 1938
+
+  - filepath: EM3C7/373_230614_A1_Blk_Reg2_40x_img.tif
+    name: ROI FM
+    napari_ref: N
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: gray
+    x_offmov: 295
+    y_offmov: 565
+    size: 123
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.97
+    x_segreg: 4
+    y_segreg: 16
+    z_segreg: 12
+    sx_segreg: 1
+    sy_segreg: 1
+    dx: 0
+    dy: 0
+
+  - filepath: EM3C7/373_230614_A1_Blk_Reg2_40x_img_neuron.tif
+    name: ROI FM
+    napari_ref: N
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: cyan
+    x_offmov: 295
+    y_offmov: 565
+    size: 123
+    x_offref: 0
+    y_offref: 0
+    tx_segreg: 0
+    ty_segreg: 0
+    tz_segreg: -1.97
+    x_segreg: 4
+    y_segreg: 16
+    z_segreg: 12
+    sx_segreg: 1
+    sy_segreg: 1
+    dx: 0
+    dy: 0

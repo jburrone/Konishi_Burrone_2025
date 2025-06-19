@@ -1,0 +1,41 @@
+images:
+  - filepath: EM3C7/373_231115_UC7_Blk1.tif
+    name: UC camera view
+    napari_ref: Y
+    xyres_um: -1
+    zres_um: -1
+    color: bop orange
+    size: 1599
+
+  - filepath: EM3C7/373_231009_DIC_Blk_20x_img_Max_HF.tif
+    name: Surface DIC map
+    napari_ref: N
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: gray
+    size: 1287
+    dy: 0
+    dx: 0
+    affinder_output: 373_affinder_231009DICBlk_to_231115UC7Blk1.txt
+
+  - filepath: EM3C7/373_231009_SoRa_Blk_20x1x_img_Max_HF.tif
+    name: Blood vessel MIP
+    napari_ref: N
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: red
+    size: 1938
+    dy: 0
+    dx: 0
+    affinder_output: 373_affinder_231009SoRaBlk_to_231009DICBlkReg2d.txt
+
+  - filepath: EM3C7/373_231009_SoRa_Blk_20x1x_img_Max_ROIs_HF.tif
+    name: ROIs
+    napari_ref: N
+    xyres_um: 1.0
+    zres_um: 1.0
+    color: green
+    size: 1938
+    dy: 0
+    dx: 0
+    affinder_output: 373_affinder_231009SoRaBlk_to_231009DICBlkReg2d.txt
