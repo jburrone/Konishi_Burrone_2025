@@ -1,0 +1,2 @@
+[napari.manifest]
+napari-navroi = napari_navroi:napari.yaml

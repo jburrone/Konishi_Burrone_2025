@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+napari_navroi/__init__.py
+napari_navroi/_utils.py
+napari_navroi/_widget.py
+napari_navroi.egg-info/PKG-INFO
+napari_navroi.egg-info/SOURCES.txt
+napari_navroi.egg-info/dependency_links.txt
+napari_navroi.egg-info/entry_points.txt
+napari_navroi.egg-info/requires.txt
+napari_navroi.egg-info/top_level.txt

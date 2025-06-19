@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: napari-navroi
+Version: 0.0.1
+Classifier: Framework :: napari
+License-File: LICENSE
+Requires-Dist: napari
+Dynamic: license-file
